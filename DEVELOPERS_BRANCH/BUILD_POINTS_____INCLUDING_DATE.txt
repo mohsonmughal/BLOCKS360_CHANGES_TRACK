@@ -1,0 +1,9 @@
+================================= DATE: SEPTEMBER_30_2025____TUESDAY =============================================================
+===== ABDUR RAHEEM ==========
+1. Scalar Function For Lottery Sales to Show on Dashboard
+2. Card Reconciliation Correction to Hide TenderType
+3. HRM :- CRUD of Employee, Leave, LeaveType, Designation,
+	      DesignationLeave, Department, Holiday, ReImbursement,
+		  SalesTarget, AdvanceAndRefund, AllowanceAndDeduction,
+		  AllowanceAndDeductionCategory, HRMSettings.. also Tested...
+ 
