@@ -7,7 +7,7 @@
 	SalesTarget, AdvanceAndRefund, AllowanceAndDeduction,
 	AllowanceAndDeductionCategory, HRMSettings.
 	
-(REVIEW:
+(REVIEW):
 1. Some potential failures that can generate error in future in Queries. Have forwared to concerned person.
 
 
