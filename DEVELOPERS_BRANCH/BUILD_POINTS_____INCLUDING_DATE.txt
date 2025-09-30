@@ -6,6 +6,9 @@
 	DesignationLeave, Department, Holiday, ReImbursement,
 	SalesTarget, AdvanceAndRefund, AllowanceAndDeduction,
 	AllowanceAndDeductionCategory, HRMSettings.
+	
+(REVIEW:
+1. Some potential failures that can generate error in future in Queries. Have forwared to concerned person.
 
 
 ===== MUHAMMAD AHSAN ==========
